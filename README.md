@@ -1,7 +1,6 @@
-# Banking-EDA-project
-# 🏦 Banking Data Dashboard — Power BI Project
 
-This Power BI dashboard presents a comprehensive analysis of customer banking behavior using real-world-style data. The goal is to identify trends, customer segmentation, and account engagement for better business insights.
+# 🏦 Banking EDA  Project
+
 
 ---
 
@@ -17,7 +16,11 @@ This Power BI dashboard presents a comprehensive analysis of customer banking be
 
 ## 🖼️ Dashboard Preview
 
-![Banking Dashboard Preview](preview.png)
+![Banking Dashboard Preview](https://github.com/rajeev2806/Banking-EDA-project/blob/main/home.png)
+![Banking Dashboard Preview](https://github.com/rajeev2806/Banking-EDA-project/blob/main/loan.png)
+![Banking Dashboard Preview](https://github.com/rajeev2806/Banking-EDA-project/blob/main/deposits.png)
+![Banking Dashboard Preview](https://github.com/rajeev2806/Banking-EDA-project/blob/main/summary.png)
+
 
 ---
 
