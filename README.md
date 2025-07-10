@@ -1,6 +1,8 @@
 
 # 🏦 Banking EDA  Project
 
+This project performs an end-to-end **Exploratory Data Analysis (EDA)** on banking client data using **Python (Pandas, Matplotlib, Seaborn)** and **PostgreSQL**. It aims to understand customer behavior, financial patterns, and identify key variables that influence account engagement and product usage.
+
 
 ---
 
@@ -12,6 +14,15 @@
 - 🧮 **Engagement Levels** (Engaged vs. Unengaged accounts)
 - 🧠 **Risk Weighting** and Fee Structure Analysis
 
+ ---
+ 
+## 📈 Visualizations Included
+
+- Countplots for categorical features
+- Histograms and KDE plots for numeric distributions
+- Correlation heatmaps for numeric columns
+- Boxplots and violin plots to identify outliers
+
 ---
 
 ## 🖼️ Dashboard Preview
@@ -22,42 +33,6 @@
 ![Banking Dashboard Preview](https://github.com/rajeev2806/Banking-EDA-project/blob/main/summary.png)
 
 
----
-
-## 🗂️ Project Files
-
-| File                    | Description                              |
-|-------------------------|------------------------------------------|
-| `Banking_Dashboard.pbix` | Power BI report (open in Power BI Desktop) |
-| `banking_clients.csv`   | Cleaned dataset used for the dashboard   |
-| `README.md`             | This summary file                        |
-
----
-
-## 🛠️ Tools & Technologies
-
-| Tool        | Usage                             |
-|-------------|------------------------------------|
-| **Power BI** | Data visualization and dashboard  |
-| **Python (Pandas)** | Data cleaning and preprocessing |
-| **PostgreSQL** | Data storage and querying       |
-
----
-
-## 🧪 How to Use This Report
-
-1. Download and install [Power BI Desktop](https://powerbi.microsoft.com/en-us/desktop/)
-2. Clone or download this repository
-3. Open the `Banking_Dashboard.pbix` file in Power BI Desktop
-4. Interact with the report filters, cards, and visualizations
-
----
-
-## 📬 About Me
-
-Built by [Your Name]  
-📧 your.email@example.com  
-🔗 [LinkedIn](https://linkedin.com/in/yourprofile) | [GitHub](https://github.com/yourusername)
 
 ---
 
